@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime
+server.log
+.server.pid
+
+# Built macOS app (rebuild with assets/build_app.sh)
+Noise Remover.app/
+
+# Local tooling
+.claude/
+.DS_Store
