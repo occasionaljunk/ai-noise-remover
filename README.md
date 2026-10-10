@@ -2,11 +2,12 @@
   <img src="assets/icon_1024.png" width="128" alt="Noise Remover icon">
 </p>
 
-<h1 align="center">Noise Remover</h1>
+<h1 align="center">AI-powered Noise Remover</h1>
 
 <p align="center">
   Self-hosted, AI-powered background noise removal for speech recordings.<br>
   Upload audio or video, compare before and after, and download clean audio. It runs entirely on your own machine.
+  Built for people that dislike Descript's Studio Sound feature. 
 </p>
 
 <p align="center">
